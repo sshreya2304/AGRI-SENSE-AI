@@ -1,0 +1,23 @@
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 60px;
+background:#14532D;
+color:white;
+}
+
+.navbar ul{
+display:flex;
+gap:30px;
+list-style:none;
+}
+
+.login-btn{
+padding:10px 20px;
+border:none;
+background:#22C55E;
+color:white;
+border-radius:10px;
+cursor:pointer;
+}

@@ -1,0 +1,39 @@
+.hero{
+height:90vh;
+background-image:url("/hero-bg.jpg");
+background-size:cover;
+background-position:center;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.overlay{
+background:rgba(0,0,0,0.5);
+padding:50px;
+border-radius:20px;
+text-align:center;
+color:white;
+}
+
+.overlay h1{
+font-size:3rem;
+line-height:1.2;
+max-width:800px;
+margin:auto;
+}
+
+.overlay p{
+font-size:1.3rem;
+margin-bottom:30px;
+}
+
+.overlay button{
+padding:15px 40px;
+background:#22C55E;
+border:none;
+color:white;
+font-size:18px;
+border-radius:10px;
+cursor:pointer;
+}

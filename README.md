@@ -149,11 +149,11 @@ The objective of Agri Sense AI is to empower farmers with modern technology and 
 
 ## 👩‍💻 Developed By
 
-**Pallavi Jakkula**
+**Shreya Mehta**
 
 B.Tech Computer Science Engineering
 
-Passionate about AI, Web Development, and Smart Agriculture Solutions.
+Passionate about Data Analytics, Data visualization.
 
 ---
 
